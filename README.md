@@ -1,6 +1,8 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
-
+Please run npm install before running npm start\
+\
+I have not added the node_modules folder because it was passing the 100MB limit
 ## Available Scripts
 
 In the project directory, you can run:
